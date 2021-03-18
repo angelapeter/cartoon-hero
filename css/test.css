@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+h1{
+font-size: 30px;
+color: fuchsia;
+}
+h2{
+color: forestgreen;
+}
+
+.big{
+font-size: 60px;
+}
+.upper{ 
+text-transform: uppercase;
+}
+.big.upper {
+color: navy;
+}
+h1 span{
+color: violet;
+}
