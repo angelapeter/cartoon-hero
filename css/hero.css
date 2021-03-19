@@ -5,7 +5,7 @@ body{
     line-height: 30px;
     color: lightslategrey;
 }
-
+/* comment for css are of this type */
 header{
     background-color: rgb(234, 172, 236);
     text-align: center;
@@ -68,11 +68,7 @@ footer a:hover{
     opacity: 0.5;
     background-color: transparent;
 }
-
+/* footer margin */
 footer p{
     margin: 0;
 }
-
-p.ul{
-    color: yellow;
-}s
